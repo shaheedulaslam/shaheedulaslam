@@ -1,4 +1,4 @@
-[ReadMe.md](https://github.com/shaheedulaslam/shaheedulaslam/files/10303666/ReadMe.md)
+
 - 👋 Hi, I’m @shaheedulaslam
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently Training ...Mern stack developer
