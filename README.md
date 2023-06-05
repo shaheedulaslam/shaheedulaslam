@@ -1,4 +1,4 @@
-# <h1 align="center">Hey..💐 Welcome </h1>
+# <h1 align="center">HEY..💐 WELCOME</h1>
                                              
 # <h1 align="center">💫 About Me:</h1>
 👨‍💻 i'm currently working in as trainee<br>✅ i'm Mern stack developer<br>👀 i'm Currently looking attractive venture
