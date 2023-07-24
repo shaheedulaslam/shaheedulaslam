@@ -1,7 +1,7 @@
 # <h1 align="center">HEY..💐 WELCOME</h1>
                                              
 # <h1 align="center">💫 About Me:</h1>
-👨‍💻 i'm currently working in as trainee<br>✅ i'm Mern stack developer<br>🎯Download My [Resume](https://drive.google.com/file/d/1IonmRo2dvlLeJ-pKoAA6fWXt6BEyVoyK/view?usp=drive_link)<br>👀 i'm Currently looking attractive venture
+👨‍💻 i'm currently working in as trainee<br>✅ i'm a self taught Mern stack developer<br>🎯Download My [Resume](https://drive.google.com/file/d/1IonmRo2dvlLeJ-pKoAA6fWXt6BEyVoyK/view?usp=drive_link)<br>👀 i'm Currently looking attractive venture
 
 
 ## 🌐 Socials:
