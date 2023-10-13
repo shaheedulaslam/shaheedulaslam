@@ -3,7 +3,7 @@
 # <h1 align="center">💫 About Me:</h1>
 👨‍💻 i'm currently working as a Next js Developer<br>✅ i'm a self taught Mern stack developer<br>🎯Download My [Resume](https://drive.google.com/file/d/1IonmRo2dvlLeJ-pKoAA6fWXt6BEyVoyK/view?usp=drive_link)<br>👀 i'm Currently looking attractive venture
 
-
+            
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shaheedulaslam)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aslam.__.061)
